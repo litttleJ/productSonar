@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Pranit
+Build-Jdk: 16.0.2
+Implementation-Title: Call-Details-Microservice
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.app.fa
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/CallDetailsMS
+Created-By: Maven Integration for Eclipse
+
